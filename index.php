@@ -1,3 +1,3 @@
-<php>
-  <print> web server <print/>
-</php>
+<?php
+print "This Web server print from GitHub"; 
+?>
